@@ -10,6 +10,7 @@ int main(){
     }
 
     printf("%d\n", result);
+    printf("\n\nAuthor - Gursidak $ingh\n\n");
 
     return 0;
 }

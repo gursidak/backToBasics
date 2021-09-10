@@ -23,5 +23,7 @@ int main(){
 
     n = factorial(n);
     printf("\n%d\n", n);
+        printf("\n\nAuthor - Gursidak $ingh\n\n");
+
     return 0;
 }
