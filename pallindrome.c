@@ -22,7 +22,8 @@ int main(){
         printf("%d is not a pallindrome",number);
     }
 
-    printf("\n");
+    printf("\n\nAuthor - Gursidak $ingh\n\n");
+    
 
     return 0;
 }

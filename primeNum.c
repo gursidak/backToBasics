@@ -19,6 +19,7 @@ int main(){
         printf("\n%d is a prime number\n",n);
     }
     
+    printf("\n\nAuthor - Gursidak $ingh\n\n");
 
 
 

@@ -16,14 +16,8 @@ int main(){
     }
         printf("Sum of Digits = %d",result);
 
-    // if(result == number){
-    //     printf("%d is a pallindrome",number);
-    // }
-    // else{
-    //     printf("%d is not a pallindrome",number);
-    // }
 
-    printf("\n");
+    printf("\n\nAuthor - Gursidak $ingh\n\n");
 
     return 0;
 }
